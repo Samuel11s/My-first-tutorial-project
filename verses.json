@@ -1,0 +1,188 @@
+[
+    {
+        "id": 1,
+        "date": "2024-09-23",
+        "morningVerse": "The Lord is my light and my salvation; whom shall I fear? - Psalm 27:1",
+        "eveningVerse": "The Lord is your keeper; the Lord is your shade at your right hand. - Psalm 121:5"
+    },
+    {
+        "id": 2,
+        "date": "2024-09-24",
+        "morningVerse": "For God so loved the world that He gave His only begotten Son. - John 3:16",
+        "eveningVerse": "I can do all things through Christ who strengthens me. - Philippians 4:13"
+    },
+    {
+        "id": 3,
+        "date": "2024-09-25",
+        "morningVerse": "I will never leave you nor forsake you. - Hebrews 13:5",
+        "eveningVerse": "The Lord is gracious and full of compassion, slow to anger and great in mercy. - Psalm 145:8"
+    },
+    {
+        "id": 4,
+        "date": "2024-09-26",
+        "morningVerse": "Trust in the Lord with all your heart, and lean not on your own understanding. - Proverbs 3:5",
+        "eveningVerse": "Cast all your anxiety on Him because He cares for you. - 1 Peter 5:7"
+    },
+    {
+        "id": 5,
+        "date": "2024-09-27",
+        "morningVerse": "The Lord is my shepherd; I shall not want. - Psalm 23:1",
+        "eveningVerse": "Come to Me, all you who labor and are heavy laden, and I will give you rest. - Matthew 11:28"
+    },
+    {
+        "id": 6,
+        "date": "2024-09-28",
+        "morningVerse": "I am the way, the truth, and the life. No one comes to the Father except through Me. - John 14:6",
+        "eveningVerse": "For I know the plans I have for you, declares the Lord. - Jeremiah 29:11"
+    },
+    {
+        "id": 7,
+        "date": "2024-09-29",
+        "morningVerse": "The Lord is good, a stronghold in the day of trouble. - Nahum 1:7",
+        "eveningVerse": "Do not fear, for I am with you; do not be dismayed, for I am your God. - Isaiah 41:10"
+    },
+    {
+        "id": 8,
+        "date": "2024-09-30",
+        "morningVerse": "The Lord is near to all who call on Him. - Psalm 145:18",
+        "eveningVerse": "The peace of God, which surpasses all understanding, will guard your hearts and minds. - Philippians 4:7"
+    },
+    {
+        "id": 9,
+        "date": "2024-10-01",
+        "morningVerse": "Delight yourself in the Lord, and He will give you the desires of your heart. - Psalm 37:4",
+        "eveningVerse": "And we know that in all things God works for the good of those who love Him. - Romans 8:28"
+    },
+    {
+        "id": 10,
+        "date": "2024-10-02",
+        "morningVerse": "Be strong and courageous. Do not be afraid or terrified. - Deuteronomy 31:6",
+        "eveningVerse": "You will keep him in perfect peace, whose mind is stayed on You. - Isaiah 26:3"
+    },
+    {
+        "id": 11,
+        "date": "2024-10-03",
+        "morningVerse": "For God so loved the world that He gave His only begotten Son. - John 3:16",
+        "eveningVerse": "I can do all things through Christ who strengthens me. - Philippians 4:13"
+    },
+    {
+        "id": 12,
+        "date": "2024-10-04",
+        "morningVerse": "The steadfast love of the Lord never ceases; His mercies never come to an end. - Lamentations 3:22",
+        "eveningVerse": "The Lord is my rock, my fortress, and my deliverer. - Psalm 18:2"
+    },
+    {
+        "id": 13,
+        "date": "2024-10-05",
+        "morningVerse": "Wait for the Lord; be strong, and let your heart take courage. - Psalm 27:14",
+        "eveningVerse": "But seek first the kingdom of God and His righteousness. - Matthew 6:33"
+    },
+    {
+        "id": 14,
+        "date": "2024-10-06",
+        "morningVerse": "God is our refuge and strength, a very present help in trouble. - Psalm 46:1",
+        "eveningVerse": "The Lord is near to the brokenhearted. - Psalm 34:18"
+    },
+    {
+        "id": 15,
+        "date": "2024-10-07",
+        "morningVerse": "I lift up my eyes to the hills. From where does my help come? My help comes from the Lord. - Psalm 121:1-2",
+        "eveningVerse": "For nothing will be impossible with God. - Luke 1:37"
+    },
+    {
+        "id": 16,
+        "date": "2024-10-08",
+        "morningVerse": "He gives strength to the weary and increases the power of the weak. - Isaiah 40:29",
+        "eveningVerse": "The Lord is my strength and my song; He has become my salvation. - Exodus 15:2"
+    },
+    {
+        "id": 17,
+        "date": "2024-10-09",
+        "morningVerse": "Fear not, for I have redeemed you; I have called you by name, you are Mine. - Isaiah 43:1",
+        "eveningVerse": "The Lord will fight for you, and you have only to be silent. - Exodus 14:14"
+    },
+    {
+        "id": 18,
+        "date": "2024-10-10",
+        "morningVerse": "Blessed are the pure in heart, for they shall see God. - Matthew 5:8",
+        "eveningVerse": "The Lord is faithful; He will strengthen you and guard you from the evil one. - 2 Thessalonians 3:3"
+    },
+    {
+        "id": 19,
+        "date": "2024-10-11",
+        "morningVerse": "Let everything that has breath praise the Lord. - Psalm 150:6",
+        "eveningVerse": "The Lord is my helper; I will not fear. - Hebrews 13:6"
+    },
+    {
+        "id": 20,
+        "date": "2024-10-12",
+        "morningVerse": "The Lord your God is with you wherever you go. - Joshua 1:9",
+        "eveningVerse": "For the Lord your God is gracious and compassionate. - 2 Chronicles 30:9"
+    },
+    {
+        "id": 21,
+        "date": "2024-10-13",
+        "morningVerse": "The Lord is my strength and my shield; my heart trusts in Him. - Psalm 28:7",
+        "eveningVerse": "For God has not given us a spirit of fear, but of power and of love and of a sound mind. - 2 Timothy 1:7"
+    },
+    {
+        "id": 22,
+        "date": "2024-10-14",
+        "morningVerse": "Do not worry about tomorrow, for tomorrow will worry about itself. - Matthew 6:34",
+        "eveningVerse": "The Lord will keep you from all harm—He will watch over your life. - Psalm 121:7"
+    },
+    {
+        "id": 23,
+        "date": "2024-10-15",
+        "morningVerse": "The Lord is good to those who wait for Him, to the soul who seeks Him. - Lamentations 3:25",
+        "eveningVerse": "For where two or three are gathered in My name, there am I among them. - Matthew 18:20"
+    },
+    {
+        "id": 24,
+        "date": "2024-10-16",
+        "morningVerse": "For the word of God is living and active, sharper than any two-edged sword. - Hebrews 4:12",
+        "eveningVerse": "The Lord bless you and keep you. - Numbers 6:24"
+    },
+    {
+        "id": 25,
+        "date": "2024-10-17",
+        "morningVerse": "Come, let us bow down in worship, let us kneel before the Lord our Maker. - Psalm 95:6",
+        "eveningVerse": "The Lord is a refuge for the oppressed, a stronghold in times of trouble. - Psalm 9:9"
+    },
+    {
+        "id": 26,
+        "date": "2024-10-18",
+        "morningVerse": "Whoever dwells in the shelter of the Most High will rest in the shadow of the Almighty. - Psalm 91:1",
+        "eveningVerse": "I am with you always, to the very end of the age. - Matthew 28:20"
+    },
+    {
+        "id": 27,
+        "date": "2024-10-19",
+        "morningVerse": "God is love, and the one who remains in love remains in God, and God in him. - 1 John 4:16",
+        "eveningVerse": "The Lord is my portion, says my soul, therefore I will hope in Him. - Lamentations 3:24"
+    },
+    {
+        "id": 28,
+        "date": "2024-10-20",
+        "morningVerse": "Your word is a lamp to my feet and a light to my path. - Psalm 119:105",
+        "eveningVerse": "The Lord is my refuge and strength, a very present help in trouble. - Psalm 46:1"
+    },
+    {
+        "id": 29,
+        "date": "2024-10-21",
+        "morningVerse": "In all your ways acknowledge Him, and He will make your paths straight. - Proverbs 3:6",
+        "eveningVerse": "The Lord is compassionate and gracious, slow to anger, abounding in love. - Psalm 103:8"
+    },
+    {
+        "id": 30,
+        "date": "2024-10-22",
+        "morningVerse": "But those who wait on the Lord shall renew their strength. - Isaiah 40:31",
+        "eveningVerse": "The grace of the Lord Jesus Christ be with your spirit. - Philippians 4:23"
+    },
+    {
+        "id": 31,
+        "date": "2024-10-23",
+        "morningVerse": "Blessed are the pure in heart, for they shall see God. - Matthew 5:8",
+        "eveningVerse": "I can do all things through Christ who strengthens me. - Philippians 4:13"
+    }
+]   
