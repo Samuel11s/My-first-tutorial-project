@@ -31,7 +31,9 @@ h1 {
     margin: 0;
     font-size: 2em;
 }
-
+a {
+    color:#ffffff;
+}
 main {
     width: 70%;
     padding: 20px;
